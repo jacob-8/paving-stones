@@ -28,5 +28,9 @@ Since programming is an invaluable help to accomplishing tasks, I'm trying to im
 - better documentation to allow for better collaboration with others as well as to more easily tackle large projects without forgetting important findings and information
 - better advertisment of tool functions so that others can use them as well which will both help find bugs and push the tools to become even more useful to me and them alike.
 
+## i18n (Internationalization)
+
+This is where the two paths above converge in a manner that unlocks the ability to make information useful to a larger audience.
+
 ---
 [View on Github](https://github.com/jacobbowdoin/paving-stones/blob/master/publish/readme.md)
