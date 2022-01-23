@@ -13,8 +13,8 @@ module.exports = {
     {
       resolve: `gatsby-theme-kb`,
       options: {
-        rootNote: '/readme',
-        contentPath: `${__dirname}/..`,
+        rootNote: 'readme',
+        contentPath: `${__dirname}/publish`,
         ignore: [
           '**/_layouts/**',
           '**/.git/**',
