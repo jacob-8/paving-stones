@@ -44,16 +44,16 @@ module.exports = {
         },
       },
     },
-    // {
-    //   resolve: `gatsby-transformer-remark`,
-    //   options: {
-    //     plugins: [
-    //       // `gatsby-remark-embed-video`,
-    //       `gatsby-remark-embed-youtube`,
-    //       `gatsby-remark-responsive-iframe`,
-    //     ],
-    //   },
-    // },
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          `gatsby-remark-embed-video`,
+          // `gatsby-remark-embed-youtube`,
+          `gatsby-remark-responsive-iframe`,
+        ],
+      },
+    },
     {
       // this plugin makes sure your static files will be served by gatsby,
       //   but of course you need to reference them by absolute path, e.g. '/assets/img.png'.
