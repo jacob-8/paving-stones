@@ -1,4 +1,4 @@
-# Foam
+# Zettle
 
 👋 Welcome to your new Foam Workspace!
 
