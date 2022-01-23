@@ -43,14 +43,14 @@ module.exports = {
           defaultPluginMdx.options.gatsbyRemarkPlugins.push({
             resolve: 'gatsby-remark-embed-video',
             options: {
-              noInlineHighlight: true,
+              related: false,
             },
           })
           defaultPluginMdx.options.gatsbyRemarkPlugins.push({
             resolve: 'gatsby-remark-responsive-iframe',
-            options: {
-              noInlineHighlight: true,
-            },
+            // options: {
+            //   noInlineHighlight: true,
+            // },
           })
 
           return defaultPluginMdx

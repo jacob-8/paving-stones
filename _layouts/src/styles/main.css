@@ -16,3 +16,8 @@ pre[class*="language-"] {
 code {
   font-size: 0.9em;
 }
+
+
+.gatsby-resp-iframe-wrapper {
+  border-radius: 15px;
+}
