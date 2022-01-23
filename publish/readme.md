@@ -7,3 +7,9 @@
 Todo...
 
 `youtube: https://www.youtube.com/watch?v=Oudgdh6tl00`
+`youtube:https://www.youtube.com/watch?v=Oudgdh6tl00`
+
+`video:https://www.youtube.com/embed/2Xc9gXyf2G4`
+`youtube:https://www.youtube.com/watch?v=2Xc9gXyf2G4`
+`youtube:2Xc9gXyf2G4`
+

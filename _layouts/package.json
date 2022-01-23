@@ -1,7 +1,7 @@
 {
   "name": "foam-template-gatsby-kb",
   "version": "1.0.0",
-  "description": "A foam template using gatsby-theme-kb for publishing you knowledge base",
+  "description": "A foam template using gatsby-theme-kb for publishing your knowledge base",
   "main": "index.js",
   "scripts": {
     "dev": "gatsby develop",
@@ -18,10 +18,11 @@
     "gatsby-plugin-copy-files-enhanced": "^1.1.1",
     "gatsby-remark-copy-linked-files": "^4.10.0",
     "gatsby-remark-embed-video": "^3.1.1",
+    "gatsby-remark-embed-youtube": "^0.0.7",
     "gatsby-remark-responsive-iframe": "^5.5.0",
     "gatsby-remark-prismjs": "^5.10.0",
     "gatsby-theme-kb": "^0.8.0",
-"gatsby-transformer-remark": "^4.0.0",
+    "gatsby-transformer-remark": "^4.0.0",
     "prism-themes": "^1.8.0",
     "prismjs": "^1.24.1",
     "rehype-katex": "^5.0.0",
