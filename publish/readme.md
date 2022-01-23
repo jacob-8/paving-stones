@@ -4,7 +4,9 @@
 
 ## Language Learning
 
-My favorite strategies:
+[[daily-regimen]]
+
+### My favorite strategies:
 
 - Chorusing
 - Extensive Reading
@@ -13,7 +15,7 @@ My favorite strategies:
 - Watching YouTube clips and singing songs w/ graded captions
 - Podcasts
 
-`youtube: https://www.youtube.com/watch?v=Oudgdh6tl00`
+<!-- `youtube: https://www.youtube.com/watch?v=Oudgdh6tl00` -->
 
 ## Programming
 
