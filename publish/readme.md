@@ -31,6 +31,7 @@ Since programming is an invaluable help to accomplishing tasks, I'm trying to im
 ## i18n (Internationalization)
 
 This is where the two paths above converge in a manner that unlocks the ability to make information useful to a larger audience.
+#todo add translate feature like swyx site
 
 ---
 [View on Github](https://github.com/jacobbowdoin/paving-stones/blob/master/publish/readme.md)
