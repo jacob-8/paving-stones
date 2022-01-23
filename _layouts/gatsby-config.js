@@ -48,9 +48,6 @@ module.exports = {
           })
           defaultPluginMdx.options.gatsbyRemarkPlugins.push({
             resolve: 'gatsby-remark-responsive-iframe',
-            // options: {
-            //   noInlineHighlight: true,
-            // },
           })
 
           return defaultPluginMdx
