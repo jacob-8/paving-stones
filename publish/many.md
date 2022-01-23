@@ -1,3 +1,0 @@
-# How many chickens
-
-Foo
