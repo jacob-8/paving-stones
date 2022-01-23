@@ -14,18 +14,12 @@
   "author": "chenmin",
   "license": "MIT",
   "dependencies": {
-    "gatsby": "^3.13.0",
+    "gatsby": "^4.5.4",
     "gatsby-plugin-copy-files-enhanced": "^1.1.1",
-    "gatsby-remark-copy-linked-files": "^4.10.0",
-    "gatsby-remark-embed-video": "^3.1.1",
-    "gatsby-remark-embed-youtube": "^0.0.7",
-    "gatsby-remark-responsive-iframe": "^5.5.0",
-    "gatsby-remark-prismjs": "^5.10.0",
+    "gatsby-remark-copy-linked-files": "^5.5.0",
+    "gatsby-remark-prismjs": "^6.5.0",
     "gatsby-theme-kb": "^0.8.0",
-    "gatsby-transformer-remark": "^4.0.0",
-    "prism-themes": "^1.8.0",
-    "prismjs": "^1.24.1",
-    "rehype-katex": "^5.0.0",
-    "remark-math": "^3.0.1"
+    "prism-themes": "^1.9.0",
+    "prismjs": "^1.26.0"
   }
 }
