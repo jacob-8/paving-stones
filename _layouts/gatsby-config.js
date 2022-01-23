@@ -39,19 +39,22 @@ module.exports = {
               noInlineHighlight: true,
             },
           })
+          
+          defaultPluginMdx.options.gatsbyRemarkPlugins.push({
+            resolve: 'gatsby-remark-embed-video',
+            options: {
+              noInlineHighlight: true,
+            },
+          })
+          defaultPluginMdx.options.gatsbyRemarkPlugins.push({
+            resolve: 'gatsby-remark-responsive-iframe',
+            options: {
+              noInlineHighlight: true,
+            },
+          })
 
           return defaultPluginMdx
         },
-      },
-    },
-    {
-      resolve: `gatsby-transformer-remark`,
-      options: {
-        plugins: [
-          `gatsby-remark-embed-video`,
-          // `gatsby-remark-embed-youtube`,
-          `gatsby-remark-responsive-iframe`,
-        ],
       },
     },
     {
