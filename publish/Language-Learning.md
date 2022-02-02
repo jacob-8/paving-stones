@@ -1,8 +1,8 @@
-## Language Learning
+# Language Learning
 
 [[daily-regimen]]
 
-### My favorite strategies
+## My favorite strategies
 
 - Chorusing
 - Extensive Reading
@@ -12,3 +12,6 @@
 - Podcasts
 
 <!-- `youtube: https://www.youtube.com/watch?v=Oudgdh6tl00` -->
+
+## Tips
+- Find a [[Shared-Context]] for language exchange

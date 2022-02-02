@@ -16,3 +16,4 @@ A few tools have come across my desk that look potentially useful but I haven't 
 - [Replay](https://replay.io/)
 - [Github Code Search Beta](https://cs.github.com/)
 - https://svelteui.com/
+- https://hyper.is/ terminal and plugins: https://medium.com/cloud-native-the-gathering/hyper-terminal-plugins-that-will-make-your-life-easier-859897df79d6
