@@ -26,6 +26,24 @@ Bus routes allow us to leave at 10:30am, 2hrs by bus
 5.5 hours for exploring and then finding dinner after which we return home by bus which takes about 2hrs and leaves about 6pm
 Some people camp: http://www.elfvillage-tw.com/index.php?lang=cht
 
+## Taipei
+~$100 for round trip rail tickets for both
+
+### XiangShan (Elephant Mountain) + JianMianShan
+https://thesmartlocal.com/read/hiking-in-taipei/
+Day 1:
+2hr High speed rail plus 17 minutes on the MRT Red Line, exit 2, 10 minute walk to trailhead.
+Local hike up Elephant Mountain w/ view of the city
+Have lunch, visit Taipei 101, rest in the afternoon at nearby hotel use pool / walk to nearby National Dr. Sun Yat-Sen Memorial if wanting to do something.
+Day 2:
+Go w/ Li to a bigger hike, bring sack lunch, get early dinner afterwards and head home on the high speed rail.
+
+MRT Option: JianMianShan
+16 min MRT trip, short walk from hotel to station, then 10 minutes from Xihu station to trailhead
+![Map](./attachments/jianmianshan-map.png)
+
+Car Option for someday if we or others have a car: Teapot Mountain
+
 ## Local options
 
 ### Lotus Pond & The Dragon and Tiger Pagodas & Kaohsiung Confucius Temple
