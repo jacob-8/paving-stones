@@ -70,3 +70,8 @@ https://taiwan-scene.com/the-secret-forest-in-kaohsiung-a-guide-to-the-maolin-na
 - good info: https://taiwan-scene.com/everything-you-need-to-know-about-getting-a-scooter-license-in-taiwan/
 - can get license after ARC
 - can't drive on [national highways](https://en.wikipedia.org/wiki/Highway_system_in_Taiwan#/map/0) but that's hardly an issue are those are not pretty routes anyways
+
+### East Coast blogs to parse
+https://taiwan-scene.com/beauty-in-the-east-five-days-on-taiwans-east-coast/
+https://www.taiwanese-secrets.com/highway-11/
+https://www.nickkembel.com/east-coast-taiwan-yilan-hualien-taroko-gorge/
